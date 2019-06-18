@@ -1,2 +1,3 @@
 連猴字都懂的Git命令
 this is test.
+pull 取得遠端數據庫的內容
